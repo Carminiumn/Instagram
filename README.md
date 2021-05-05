@@ -24,3 +24,9 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src="https://raw.githubusercontent.com/sundries-hub/LifeReviewFile/master/uPic/ins-1.gif">
+
+
+
+Styled launch screen:
+
+![Kapture 2021-05-05 at 14.12.29](https://raw.githubusercontent.com/sundries-hub/LifeReviewFile/master/uPic/Kapture%202021-05-05%20at%2014.12.29.gif)
