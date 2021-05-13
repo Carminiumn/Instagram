@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		191D3C452640C3640081D3C1 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 191D3C442640C3640081D3C1 /* PostCell.swift */; };
+		19376074264A574200EEC20D /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19376073264A574200EEC20D /* CommentCell.swift */; };
 		197E90A8263DE1DB003A2DA9 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 197E90A7263DE1DB003A2DA9 /* LoginViewController.swift */; };
 		197E90AA263DE1F9003A2DA9 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 197E90A9263DE1F9003A2DA9 /* FeedViewController.swift */; };
 		197E90AC263DFACF003A2DA9 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 197E90AB263DFACF003A2DA9 /* CameraViewController.swift */; };
@@ -42,6 +43,7 @@
 
 /* Begin PBXFileReference section */
 		191D3C442640C3640081D3C1 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		19376073264A574200EEC20D /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		197E90A7263DE1DB003A2DA9 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		197E90A9263DE1F9003A2DA9 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		197E90AB263DFACF003A2DA9 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
@@ -132,6 +134,7 @@
 				197E90A9263DE1F9003A2DA9 /* FeedViewController.swift */,
 				197E90AB263DFACF003A2DA9 /* CameraViewController.swift */,
 				191D3C442640C3640081D3C1 /* PostCell.swift */,
+				19376073264A574200EEC20D /* CommentCell.swift */,
 			);
 			path = Instagram;
 			sourceTree = "<group>";
@@ -421,6 +424,7 @@
 				197E90AA263DE1F9003A2DA9 /* FeedViewController.swift in Sources */,
 				197F47AA263DDEFF005191E9 /* SceneDelegate.swift in Sources */,
 				191D3C452640C3640081D3C1 /* PostCell.swift in Sources */,
+				19376074264A574200EEC20D /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
